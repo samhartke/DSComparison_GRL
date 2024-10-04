@@ -1,0 +1,1 @@
+This repository contains the code used in generating figures for the manuscript, 'Lack of clear standards and usable comparisons of downscaled climate projections pose a roadblock for US climate discovery and adaptation.' The corresponding author is Samantha Hartke.
